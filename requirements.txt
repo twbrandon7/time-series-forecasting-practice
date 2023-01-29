@@ -3,6 +3,7 @@ torch
 torchvision
 torchaudio
 scikit-learn
+mlflow
 
 # for development
 flake8
