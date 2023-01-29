@@ -5,6 +5,7 @@ torchaudio
 scikit-learn
 mlflow
 tqdm
+matplotlib
 
 # for development
 flake8
