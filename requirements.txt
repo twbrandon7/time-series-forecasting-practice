@@ -2,6 +2,7 @@
 torch
 torchvision
 torchaudio
+scikit-learn
 
 # for development
 flake8
